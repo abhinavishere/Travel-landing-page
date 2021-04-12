@@ -1,2 +1,3 @@
-# TRAVEL 
-This is a website for Travel . Made using pure HTML and CSS
+## Travel Landing Page . 
+
+![Screenshot](./images/screenshot.png)
